@@ -1,4 +1,4 @@
-### Hi, I am Jason 👋
+### Hi, I'm Jason 👋
 
 - 🔭 I’m currently working on React.js && the MERN Stack
 
