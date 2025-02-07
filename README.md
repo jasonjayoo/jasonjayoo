@@ -1,11 +1,11 @@
 ### Hi, I'm Jason 👋
 
 - 🔭 I’m currently working on React.js && the MERN Stack
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 I’m currently a Front-End Web Developer
 - 👯 I’m looking to collaborate on interesting web applications
 - 💬 Ask me about my coding 
 - 📫 How to reach me: https://jasonjayoo.github.io/jasonyoo-fullstack-portfolio/
-- ⚡ Fun fact: I play the ukulele :)
+- ⚡ Fun fact: I love making sourdough bread & I play the ukulele :)
 
 🏡 [website][website] **|** 
 📺 [youtube][youtube] **|** 
