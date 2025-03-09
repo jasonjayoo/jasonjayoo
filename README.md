@@ -1,7 +1,7 @@
 ### Hi, I'm Jason 👋
 
-- 🔭 I’m currently working on React.js && the MERN Stack
-- 🌱 I’m currently a Front-End Web Developer
+- 🔭 I’m currently working on a React.js project
+- 🌱 I’m currently a UX/UI Front-End Web Developer
 - 👯 I’m looking to collaborate on interesting web applications
 - 💬 Ask me about my coding 
 - 📫 How to reach me: https://jasonjayoo.github.io/jasonyoo-fullstack-portfolio/
